@@ -6,9 +6,12 @@ I am Front-end Developer
 
 With a strong interest in web development and growing knowledge of ReactJS and web design, I believe I would be an excellent addition to both the team and your organization as a whole. By participating in these organizations, I was able to demonstrate my organizational and planning skills, as well as my problem-solving mindset, which I could effectively apply in the position of Front-end Developer. I also stood out as a student with strong research ability, which I honed through various courses and projects.
 
-*   🌍  I'm based in Ho Chi Minh City
-*   ✉️  You can contact me at [mhoang.developer@gmail.com](mailto:mhoang.developer@gmail.com)
-*   🧠  I'm learning C#, .Net, ReactNative### Skills 
+* 🌍  I'm based in Ho Chi Minh City
+* ✉️  You can contact me at [mhoang.developer@gmail.com](mailto:mhoang.developer@gmail.com)
+* 🧠  I'm learning C#, .Net, ReactNative
+
+### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -30,16 +33,15 @@ With a strong interest in web development and growing knowledge of ReactJS and w
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
-                    
+
 ### Socials
-                  
-                  
-<p align="left">
-                          
-<a href="https://discord.com/users/vmhoafng" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-<a href="https://www.facebook.com/daylatrangcuaminhhoang" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-                          
-<a href="https://www.github.com/vmhoafng" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-<a href="https://www.linkedin.com/in/vo-minh-hoang-a2558a246/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<a href="https://github.com/vmhoafng" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmhoafng&langs_count=10&title_color=10b981&text_color=6366f1&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/vmhoafng/my-portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vmhoafng&repo=my-portfolio&title_color=10b981&text_color=6366f1&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vmhoafng/messenger-clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vmhoafng&repo=messenger-clone&title_color=10b981&text_color=6366f1&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/vmhoafng/OnlineStore" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vmhoafng&repo=OnlineStore&title_color=10b981&text_color=6366f1&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vmhoafng/landingpage" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vmhoafng&repo=landingpage&title_color=10b981&text_color=6366f1&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<p align="left"> <a href="https://discord.com/users/vmhoafng" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/daylatrangcuaminhhoang" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/vmhoafng" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vo-minh-hoang-a2558a246/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Badges
+
+<a href="https://github.com/vmhoafng" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmhoafng&langs_count=10&title_color=10b981&text_color=6366f1&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/vmhoafng/my-portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vmhoafng&repo=my-portfolio&title_color=10b981&text_color=6366f1&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vmhoafng/messenger-clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vmhoafng&repo=messenger-clone&title_color=10b981&text_color=6366f1&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/vmhoafng/OnlineStore" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vmhoafng&repo=OnlineStore&title_color=10b981&text_color=6366f1&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vmhoafng/landingpage" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vmhoafng&repo=landingpage&title_color=10b981&text_color=6366f1&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
