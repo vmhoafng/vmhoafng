@@ -37,6 +37,7 @@ With a strong interest in web development and growing knowledge of ReactJS and w
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/vmhoafng" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/daylatrangcuaminhhoang" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/vmhoafng" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vo-minh-hoang-a2558a246/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <a href="https://github.com/vmhoafng" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmhoafng&langs_count=10&title_color=10b981&text_color=6366f1&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
